@@ -1,4 +1,5 @@
-# Dwukierunkowy system tłumaczenia mowy na tekst pomiędzy językiem polskim i tureckim
+# Praca inżynierska - przewidywana obrona 02.2027
+## Dwukierunkowy system tłumaczenia mowy na tekst pomiędzy językiem polskim i tureckim
 ### Wymagania
 - Python 3.12.x<br>
 - RAM - zalecane 16 GB
